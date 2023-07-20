@@ -1,0 +1,7 @@
+discord.py
+openai
+aiohttp
+psycopg2
+torch
+safetensors
+diffusers
